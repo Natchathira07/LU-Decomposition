@@ -9,8 +9,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1.Take matrix input from the user and convert it to a NumPy array.
+<br>
 2.Apply LU decomposition using scipy.linalg.lu() to get P, L, and U.
+<br>
 3.Extract the L (lower) and U (upper) triangular matrices.
+<br>
 4.Print the L and U matrices 
 
 ## Program:
